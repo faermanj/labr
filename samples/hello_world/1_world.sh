@@ -1,0 +1,1 @@
+echo -n world >&2
